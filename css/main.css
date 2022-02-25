@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+
+.body {
+    margin: 20px;
+    padding: 20px;
+    width: 1500px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.flag-header {
+    text-align: center;
+}
+
+.flag {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.flag {
+    width: 800px;
+    height: 500px;
+    border: 1px solid rgb(201, 194, 194);
+    margin: 0 auto;
+    margin-bottom: 90px;
+    box-shadow: 10px 10px 15px 10px black;
+    background-image: linear-gradient( 180deg, #000000 33%, #dd0000 33%, #dd0000 66%, #ffce00 66%);
+}
+
+.flag2 {
+    width: 800px;
+    margin: 0 auto;
+    height: 450px;
+    background-image: linear-gradient(180deg, white 33%, rgb(64, 64, 212) 33%, rgb(64, 64, 212) 67%, red 67%);
+    box-shadow: 10px 10px 15px 10px black;
+    margin-bottom: 80px;
+}
+
+.flag3 {
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    background-image: linear-gradient( 90deg, blue 33%, white 33%, white 66%, red 66%, red 100%);
+    margin-bottom: 100px;
+    box-shadow: 10px 10px 15px 10px black;
+}
+
+.flag4 {
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    background-image: linear-gradient( 180deg, rgba(77, 199, 235, 1) 30%, rgb(240, 24, 24) 30%, rgb(240, 24, 24) 33%, rgba(255, 255, 255, 1) 33%, rgba(255, 255, 255, 1) 67%, rgb(240, 24, 24) 67%, rgb(240, 24, 24) 70%, rgba(0, 255, 16, 1) 70%);
+    box-shadow: 10px 10px 15px 10px black;
+}
+
+.box {
+    text-align: center;
+    font-size: 31px;
+}
